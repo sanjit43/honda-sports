@@ -1,0 +1,5 @@
+/* Gray Scale Add  */
+.gray-scale{
+    filter: grayscale(100%);
+    
+}
