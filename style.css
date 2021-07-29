@@ -9,3 +9,17 @@
     height: 300px;
     border-radius: 150%;
 }
+
+/* Footer Section */
+ul{
+    display: flex;
+    
+}
+ul li{
+    list-style-type: none;
+    margin: 5px;
+}
+
+li a{
+    text-decoration: none;
+}
